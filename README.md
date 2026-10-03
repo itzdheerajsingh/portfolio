@@ -32,3 +32,4 @@ Set `NEXT_PUBLIC_SITE_URL` (e.g. `https://yourname.dev`) in production so social
 
 ## Adding things later
 Add GitHub links to `PROJECTS[].github` to show the "View on GitHub" buttons. Brand logos are not bundled yet; the skills inspector shows a symbol tile instead. If you add devicon/simple-icons SVGs to `public/logos/`, keep their LICENSE files alongside and credit them here.
+# portfolio
